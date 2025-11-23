@@ -1,5 +1,13 @@
-# Brewfile
+# Install
 
-Package list for [homebrew](http://brew.sh/).
+1. Install HomeBrew
 
-Managed by [homebrew-file](https://github.com/rcmdnk/homebrew-file).
+```shell
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+2. Install application
+
+```shell
+brew bundle --global
+```
