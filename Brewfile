@@ -96,10 +96,7 @@ brew zsh-syntax-highlighting
 brew zstd
 
 tap homebrew/cask
-cask appcleaner
-cask authy
 cask cyberduck
-cask deepl
 cask discord
 cask docker
 cask drawio
@@ -119,8 +116,6 @@ cask qlprettypatch
 cask qlstephen
 cask quicklook-csv
 cask quicklook-json
-cask sourcetree
-cask spotify
 cask steam
 cask suspicious-package
 cask the-unarchiver
@@ -136,8 +131,5 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 1018301773 AdBlock Pro (10.3.1)
 appstore 539883307 LINE (7.16.1)
 appstore 545519333 Prime Video (9.32)
-appstore 6443492610 WebTranslator (0.1.19)
-appstore 497799835 Xcode (14.3)
